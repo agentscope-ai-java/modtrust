@@ -1,0 +1,6 @@
+/modtrust
+/cmd/modtrust/modtrust
+*.test
+*.out
+coverage.txt
+coverage.html

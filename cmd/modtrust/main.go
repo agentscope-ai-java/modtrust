@@ -13,7 +13,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/__GH_OWNER__/modtrust"
+	"github.com/agentscope-ai-java/modtrust"
 )
 
 func main() {

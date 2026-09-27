@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/modtrust
+module github.com/agentscope-ai-java/modtrust
 
 go 1.27.1

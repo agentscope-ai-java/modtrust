@@ -93,13 +93,13 @@ below.
 ## Install
 
 ```sh
-go install github.com/__GH_OWNER__/modtrust/cmd/modtrust@latest
+go install github.com/agentscope-ai-java/modtrust/cmd/modtrust@latest
 ```
 
 Or as a library:
 
 ```sh
-go get github.com/__GH_OWNER__/modtrust
+go get github.com/agentscope-ai-java/modtrust
 ```
 
 Go >= 1.21. Standard library only — no runtime dependencies, including no

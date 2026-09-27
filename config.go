@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/__GH_OWNER__/modtrust/internal/govars"
+	"github.com/agentscope-ai-java/modtrust/internal/govars"
 )
 
 // EnvVar is the reportable form of one `go env` variable: its effective

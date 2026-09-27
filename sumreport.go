@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/__GH_OWNER__/modtrust/internal/modsum"
+	"github.com/agentscope-ai-java/modtrust/internal/modsum"
 )
 
 // SumEntry is the reportable form of one checked requirement's go.sum
